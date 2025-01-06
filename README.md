@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🌱 Estou aprendendo Python e JavaScript
 - 👯 Estou procurando colaborar em Projetos em Freelancer e oportunidades na área de T.I
 - 💬 Pergunte-me sobre Power BI e Python
-- 📫 Entre em contato: raulmelo033@gmail.com
+- 📫 Entre em contato: raulmelo033@gmail.com (19)99730-2004
 --- 
 
 ## Habilidades
