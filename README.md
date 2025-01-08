@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação.
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando em:
+- 🔭 Atualmente estou trabalhando em: Python Basico - Avançado
 - 🌱 Estou aprendendo Python e JavaScript
 - 👯 Estou procurando colaborar em Projetos em Freelancer e oportunidades na área de T.I
 - 💬 Pergunte-me sobre Power BI e Python
